@@ -1,3 +1,9 @@
+# Changer coleur background :
+
+Dans master.css changer la valeur : 
+
+    #particles-js{width:100%;height:100%;background-color:#ff3399;
+
 ## particles.js
 
 ### A lightweight JavaScript library for creating particles.
